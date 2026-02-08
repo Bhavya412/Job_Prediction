@@ -2,9 +2,11 @@ streamlit
 pandas
 numpy
 matplotlib
+seaborn
 wordcloud
 scikit-learn
 plotly
 altair
 joblib
-seaborn
+pdfplumber
+python-docx
