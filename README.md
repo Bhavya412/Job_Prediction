@@ -18,3 +18,6 @@ Pandas, NumPy
 Scikit-learn
 Matplotlib / Seaborn
 Streamlit
+
+**Live Demo**
+https://jobprediction.streamlit.app/
