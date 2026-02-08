@@ -10,3 +10,4 @@ altair
 joblib
 pdfplumber
 python-docx
+xlsxwriter
